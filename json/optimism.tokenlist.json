@@ -1,6 +1,6 @@
 {
-    "name": "Optimism",
-    "logoURI": "https://ethereum-optimism.github.io/optimism.svg",
+    "name": "RubyX",
+    "logoURI": "https://raw.githubusercontent.com/RubyXswap/rubyxsvg/main/X-full-fade.svg",
     "keywords": [
         "scaling",
         "layer2",
@@ -42,8 +42,8 @@
         }
     ],
     "version": {
-        "major": 4,
-        "minor": 3,
-        "patch": 13
+        "major": 1,
+        "minor": 0,
+        "patch": 0
     }
 }
